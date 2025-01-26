@@ -8,7 +8,8 @@ To contribute to the success of a business by utilizing data analysis techniques
 ## Dashboard
  - <a href = "https://github.com/nickssGit/Super-Store-Sales-Dashboard/blob/main/SuperStoreSalesDB5.pdf">Dashbaord</a>
 
-
+## Power Bi Report
+- <a href =  "https://github.com/nickssGit/Super-Store-Sales-Dashboard/blob/main/SuperStoreSalesDB5.pbix" > Power Bi </a>
 
 
 
